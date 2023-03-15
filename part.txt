@@ -1,0 +1,11 @@
+STM32F469-disco from STM
+
+555 timer: SE555DR with space equivalent: SE555-SP (both from TI)
+
+adc: ADS7882IPFBT from TI
+
+npn: 2n2222 with space equivalent: 2n2222AHR from STM
+
+opamp: OPA2320 from TI
+
+relay: ARS14Y03
