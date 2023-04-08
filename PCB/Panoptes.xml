@@ -1,0 +1,3079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jared/school/senoir_design/dsp-neutron-spectrometer/PCB/Panoptes.kicad_sch</source>
+    <date>Tue Mar 28 12:44:26 2023</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Panoptes.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755</field>
+        <field name="DK_PN">1276-1097-1-ND</field>
+        <field name="MPN">CL31B105KAHNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755"/>
+      <property name="DK_PN" value="1276-1097-1-ND"/>
+      <property name="MPN" value="CL31B105KAHNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0703c4d-97a7-4d71-a420-a1fcb7ba96ea</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755</field>
+        <field name="DK_PN">1276-1097-1-ND</field>
+        <field name="MPN">CL31B105KAHNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755"/>
+      <property name="DK_PN" value="1276-1097-1-ND"/>
+      <property name="MPN" value="CL31B105KAHNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8a378a7-e08b-4ef8-9f72-43730b87c99a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cd2c44a-4e28-489f-bde2-cb3c113b5fd6</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d5b765-2fb9-49e4-a10e-333139678bc9</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755</field>
+        <field name="DK_PN">1276-1097-1-ND</field>
+        <field name="MPN">CL31B105KAHNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755"/>
+      <property name="DK_PN" value="1276-1097-1-ND"/>
+      <property name="MPN" value="CL31B105KAHNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ece0f4-6e1f-4871-8030-3706ff083c3e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c74ca9d-d890-4c73-b81f-f264f152f145</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755</field>
+        <field name="DK_PN">1276-1097-1-ND</field>
+        <field name="MPN">CL31B105KAHNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755"/>
+      <property name="DK_PN" value="1276-1097-1-ND"/>
+      <property name="MPN" value="CL31B105KAHNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e51a56ca-8824-41d2-bb78-2a1f9697649a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f70591a1-013c-4119-91c3-d93e84200639</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9092e2ed-e990-4ef6-87da-9d24689ae9b0</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a7a12cc-1589-4aef-960e-f5e0b97df32a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9821908-a936-41b2-911b-ea9d9b8dd5c6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39fb9f8a-f7e9-4641-8491-e2bb99e7e204</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C103JARAC7800/2215028</field>
+        <field name="DK_PN">399-C1206C103JARAC7800CT-ND</field>
+        <field name="MPN">C1206C103JARAC7800</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C103JARAC7800/2215028"/>
+      <property name="DK_PN" value="399-C1206C103JARAC7800CT-ND"/>
+      <property name="MPN" value="C1206C103JARAC7800"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d9345bc-54f7-41dd-ac8f-7819faf92ba5</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>200n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773</field>
+        <field name="DK_PN">399-C1812X204KDRLCAUTOCT-ND</field>
+        <field name="MPN">C1812X204KDRLCAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773"/>
+      <property name="DK_PN" value="399-C1812X204KDRLCAUTOCT-ND"/>
+      <property name="MPN" value="C1812X204KDRLCAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>785896f0-ca8e-4b3c-9367-53e5708e5e81</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1.5n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343</field>
+        <field name="DK_PN">13-CC1206FRNPO9BN152CT-ND</field>
+        <field name="MPN">CC1206FRNPO9BN152</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343"/>
+      <property name="DK_PN" value="13-CC1206FRNPO9BN152CT-ND"/>
+      <property name="MPN" value="CC1206FRNPO9BN152"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74d3492b-4de9-4fb3-91e8-186b29af2456</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>200n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773</field>
+        <field name="DK_PN">399-C1812X204KDRLCAUTOCT-ND</field>
+        <field name="MPN">C1812X204KDRLCAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773"/>
+      <property name="DK_PN" value="399-C1812X204KDRLCAUTOCT-ND"/>
+      <property name="MPN" value="C1812X204KDRLCAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a591fad-85b6-4067-9960-5a8c8ef0f381</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1.5n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343</field>
+        <field name="DK_PN">13-CC1206FRNPO9BN152CT-ND</field>
+        <field name="MPN">CC1206FRNPO9BN152</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343"/>
+      <property name="DK_PN" value="13-CC1206FRNPO9BN152CT-ND"/>
+      <property name="MPN" value="CC1206FRNPO9BN152"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c35e436-d887-4835-8d49-7c1a2c3921bd</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>200n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773</field>
+        <field name="DK_PN">399-C1812X204KDRLCAUTOCT-ND</field>
+        <field name="MPN">C1812X204KDRLCAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1812X204KDRLCAUTO/14317773"/>
+      <property name="DK_PN" value="399-C1812X204KDRLCAUTOCT-ND"/>
+      <property name="MPN" value="C1812X204KDRLCAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44d265b3-a1de-4537-b046-0b8f7d755c2b</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1.5n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343</field>
+        <field name="DK_PN">13-CC1206FRNPO9BN152CT-ND</field>
+        <field name="MPN">CC1206FRNPO9BN152</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206FRNPO9BN152/5884343"/>
+      <property name="DK_PN" value="13-CC1206FRNPO9BN152CT-ND"/>
+      <property name="MPN" value="CC1206FRNPO9BN152"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af99918e-23f2-471b-9242-119a20a80865</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8b43d76-3550-4adf-b430-973b56075290</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7877cd74-5751-4023-84e0-206012e9e6a7</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>778761a9-b0c9-4366-9dd3-171b8d5642e4</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7420da1-59fc-41b3-9e5d-6be53a454c21</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88fca39a-e4ce-4723-8a09-0004ead9ba5e</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755</field>
+        <field name="DK_PN">1276-1097-1-ND</field>
+        <field name="MPN">CL31B105KAHNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KAHNNNE/3886755"/>
+      <property name="DK_PN" value="1276-1097-1-ND"/>
+      <property name="MPN" value="CL31B105KAHNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cadd2ed-7b88-406c-9050-05d0650fa8a8</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49c9c651-4cb2-453b-b3df-3512f851435e</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e465168-cd5a-4428-8f76-32d1bc5742ac</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27884e2b-65c9-4668-8718-29c2f8c3132b</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64551a7b-deec-4275-b7a6-539998d29bb5</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e86f96b-2238-4955-ab6c-81a3e265f822</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300</field>
+        <field name="DK_PN">399-C1206C100F1HACAUTOCT-ND</field>
+        <field name="MPN">C1206C100F1HACAUTO</field>
+        <field name="Manufacturer">KEMET</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/kemet/C1206C100F1HACAUTO/7960300"/>
+      <property name="DK_PN" value="399-C1206C100F1HACAUTOCT-ND"/>
+      <property name="MPN" value="C1206C100F1HACAUTO"/>
+      <property name="Manufacturer" value="KEMET"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33fbe755-1cd4-4e3b-a78b-cea24d1c9272</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.33u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796</field>
+        <field name="DK_PN">1276-1138-1-ND</field>
+        <field name="MPN">CL31B334KBFNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796"/>
+      <property name="DK_PN" value="1276-1138-1-ND"/>
+      <property name="MPN" value="CL31B334KBFNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44aabbdb-2167-4883-92a4-eed49e447b1c</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>82p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484</field>
+        <field name="DK_PN">311-4424-1-ND</field>
+        <field name="MPN">CC1206JRNPO9BN820</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484"/>
+      <property name="DK_PN" value="311-4424-1-ND"/>
+      <property name="MPN" value="CC1206JRNPO9BN820"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02516766-e2db-4a1b-be69-371f105b6738</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edea3833-99f7-4f3b-b602-47da0ac975d2</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>82p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484</field>
+        <field name="DK_PN">311-4424-1-ND</field>
+        <field name="MPN">CC1206JRNPO9BN820</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484"/>
+      <property name="DK_PN" value="311-4424-1-ND"/>
+      <property name="MPN" value="CC1206JRNPO9BN820"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6649bace-bd21-4dd5-bb39-3c51dd8c01a4</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>82p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484</field>
+        <field name="DK_PN">311-4424-1-ND</field>
+        <field name="MPN">CC1206JRNPO9BN820</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484"/>
+      <property name="DK_PN" value="311-4424-1-ND"/>
+      <property name="MPN" value="CC1206JRNPO9BN820"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>080291f8-e12d-4d0f-aa35-bd0cef8492b0</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>0.33u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796</field>
+        <field name="DK_PN">1276-1138-1-ND</field>
+        <field name="MPN">CL31B334KBFNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796"/>
+      <property name="DK_PN" value="1276-1138-1-ND"/>
+      <property name="MPN" value="CL31B334KBFNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e20d368-e8f0-477c-96b2-7f2948194188</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>82p</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484</field>
+        <field name="DK_PN">311-4424-1-ND</field>
+        <field name="MPN">CC1206JRNPO9BN820</field>
+        <field name="Manufacturer">YAGEO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/yageo/CC1206JRNPO9BN820/5884484"/>
+      <property name="DK_PN" value="311-4424-1-ND"/>
+      <property name="MPN" value="CC1206JRNPO9BN820"/>
+      <property name="Manufacturer" value="YAGEO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22088ec3-43f0-40db-9780-2049e2235fd4</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b2ece03-35d4-44a5-8f16-9fc1df5bae48</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>0.33u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796</field>
+        <field name="DK_PN">1276-1138-1-ND</field>
+        <field name="MPN">CL31B334KBFNNNE</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B334KBFNNNE/3886796"/>
+      <property name="DK_PN" value="1276-1138-1-ND"/>
+      <property name="MPN" value="CL31B334KBFNNNE"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b539aaa-ad90-45bc-b916-5f7dc368ce72</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675</field>
+        <field name="DK_PN">1276-1017-1-ND</field>
+        <field name="MPN">CL31B104KBCNNNC</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B104KBCNNNC/3886675"/>
+      <property name="DK_PN" value="1276-1017-1-ND"/>
+      <property name="MPN" value="CL31B104KBCNNNC"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0d02ab7-21ae-4fa8-9173-2bd70ff7cc86</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>green</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924</field>
+        <field name="DK_PN">732-4986-1-ND</field>
+        <field name="MPN">150080VS75000</field>
+        <field name="Manufacturer">Würth Elektronik</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924"/>
+      <property name="DK_PN" value="732-4986-1-ND"/>
+      <property name="MPN" value="150080VS75000"/>
+      <property name="Manufacturer" value="Würth Elektronik"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa8874f-3669-46dd-a861-db08662f7e3c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>green</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924</field>
+        <field name="DK_PN">732-4986-1-ND</field>
+        <field name="MPN">150080VS75000</field>
+        <field name="Manufacturer">Würth Elektronik</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924"/>
+      <property name="DK_PN" value="732-4986-1-ND"/>
+      <property name="MPN" value="150080VS75000"/>
+      <property name="Manufacturer" value="Würth Elektronik"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>015377d9-b36a-45ae-a390-09fccdfc694f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>green</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924</field>
+        <field name="DK_PN">732-4986-1-ND</field>
+        <field name="MPN">150080VS75000</field>
+        <field name="Manufacturer">Würth Elektronik</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080VS75000/4489924"/>
+      <property name="DK_PN" value="732-4986-1-ND"/>
+      <property name="MPN" value="150080VS75000"/>
+      <property name="Manufacturer" value="Würth Elektronik"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>978ef8d0-23c1-4844-bdd2-8a7ebbf98c03</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <fields>
+        <field name="DK_Detail_Page">n/a</field>
+        <field name="DK_PN">n/a</field>
+        <field name="MPN">n/a</field>
+        <field name="Manufacturer">n/a</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="DK_Detail_Page" value="n/a"/>
+      <property name="DK_PN" value="n/a"/>
+      <property name="MPN" value="n/a"/>
+      <property name="Manufacturer" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be3602a9-e367-4ffa-9afd-d3e8bcf40c7b</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <fields>
+        <field name="DK_Detail_Page">n/a</field>
+        <field name="DK_PN">n/a</field>
+        <field name="MPN">n/a</field>
+        <field name="Manufacturer">n/a</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="DK_Detail_Page" value="n/a"/>
+      <property name="DK_PN" value="n/a"/>
+      <property name="MPN" value="n/a"/>
+      <property name="Manufacturer" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2de67608-5aad-460d-b8c2-d0b4d96c7795</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <fields>
+        <field name="DK_Detail_Page">n/a</field>
+        <field name="DK_PN">n/a</field>
+        <field name="MPN">n/a</field>
+        <field name="Manufacturer">n/a</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="DK_Detail_Page" value="n/a"/>
+      <property name="DK_PN" value="n/a"/>
+      <property name="MPN" value="n/a"/>
+      <property name="Manufacturer" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68168483-1e87-4947-b9bb-2ff065ff56ba</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4mm_Pad_Via</footprint>
+      <fields>
+        <field name="DK_Detail_Page">n/a</field>
+        <field name="DK_PN">n/a</field>
+        <field name="MPN">n/a</field>
+        <field name="Manufacturer">n/a</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="DK_Detail_Page" value="n/a"/>
+      <property name="DK_PN" value="n/a"/>
+      <property name="MPN" value="n/a"/>
+      <property name="Manufacturer" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96e4a612-b06f-45a6-83f6-3cbf3d05a711</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x06_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c03725fe-44f1-4f1c-a88e-d2a5b260b5ed</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_02x12_Odd_Even</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Odd_Even" description="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b89b115-ffd7-4e62-8561-dafc1e7a5241</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="DK_Detail_Page" value=""/>
+      <property name="DK_PN" value=""/>
+      <property name="MPN" value=""/>
+      <property name="Manufacturer" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fb3850b-3d86-4fe5-8f9e-52b59428aa1a</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N2222AUB</value>
+      <footprint>Panoptes:2N2222AUB</footprint>
+      <datasheet>https://www.microsemi.com/document-portal/doc_download/8898-lds-0060-datasheet</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/microchip-technology/2N2222AUB/4377384</field>
+        <field name="DK_PN">2N2222AUBMS-ND</field>
+        <field name="MPN">2N2222AUB</field>
+        <field name="Manufacturer">Microchip Technology</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/microchip-technology/2N2222AUB/4377384"/>
+      <property name="DK_PN" value="2N2222AUBMS-ND"/>
+      <property name="MPN" value="2N2222AUB"/>
+      <property name="Manufacturer" value="Microchip Technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="NPN transistor, base/emitter/collector"/>
+      <property name="ki_keywords" value="transistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5226e39-93b9-4c31-b3af-14e29e396846</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2563dac-b955-4b85-a7d7-5de941b23cf9</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dab8fa8-97a0-444f-9295-dea47bc1a5fa</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67c386c0-b558-439c-a975-7a77c2e0e473</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1042f19d-44d0-407f-b391-44e50539a401</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e706878-bcfe-43a6-9032-87b771374bfe</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>134b7844-812c-4e6e-9ebb-996af96a1b06</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eab38be3-dbdd-443c-b3e5-6f1e9bdf5ff6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccd42110-21c2-4a1d-a666-21bf13dd5f29</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096</field>
+        <field name="DK_PN">RNCF1206BKE1M00CT-ND</field>
+        <field name="MPN">RNCF1206BKE1M00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096"/>
+      <property name="DK_PN" value="RNCF1206BKE1M00CT-ND"/>
+      <property name="MPN" value="RNCF1206BKE1M00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad416dcc-5a8a-4fd6-9e17-c26aa10631a9</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096</field>
+        <field name="DK_PN">RNCF1206BKE1M00CT-ND</field>
+        <field name="MPN">RNCF1206BKE1M00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096"/>
+      <property name="DK_PN" value="RNCF1206BKE1M00CT-ND"/>
+      <property name="MPN" value="RNCF1206BKE1M00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd3d78f1-8d3f-4223-a147-4b1398626d50</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096</field>
+        <field name="DK_PN">RNCF1206BKE1M00CT-ND</field>
+        <field name="MPN">RNCF1206BKE1M00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096"/>
+      <property name="DK_PN" value="RNCF1206BKE1M00CT-ND"/>
+      <property name="MPN" value="RNCF1206BKE1M00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cc27fab-3bb7-45c5-a5b5-70d1ab30d6a5</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096</field>
+        <field name="DK_PN">RNCF1206BKE1M00CT-ND</field>
+        <field name="MPN">RNCF1206BKE1M00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096"/>
+      <property name="DK_PN" value="RNCF1206BKE1M00CT-ND"/>
+      <property name="MPN" value="RNCF1206BKE1M00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898dce02-b46a-4f43-a205-f2cefeb778b2</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1993ab97-7732-4599-b4e5-5ea1830f73a7</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42f74404-767e-4a94-8fd9-0dac54d292d4</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096</field>
+        <field name="DK_PN">RNCF1206BKE1M00CT-ND</field>
+        <field name="MPN">RNCF1206BKE1M00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF1206BKE1M00/2027096"/>
+      <property name="DK_PN" value="RNCF1206BKE1M00CT-ND"/>
+      <property name="MPN" value="RNCF1206BKE1M00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32fdc66a-bcb3-4f9c-a269-c3605ba77c7c</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e79ae3d-2dfe-499e-8064-b3761fc06590</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB152V/3070810</field>
+        <field name="DK_PN">P1.5KBCCT-ND</field>
+        <field name="MPN">ERA-8AEB152V</field>
+        <field name="Manufacturer">Panasonic Electronic Components</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB152V/3070810"/>
+      <property name="DK_PN" value="P1.5KBCCT-ND"/>
+      <property name="MPN" value="ERA-8AEB152V"/>
+      <property name="Manufacturer" value="Panasonic Electronic Components"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f071ddf-6fc4-4ace-8fa7-7c81084e9bb4</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13891430-a2d4-4a54-9c46-a7572d6dbade</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c97a7d9-8905-49bc-b1a2-107af78261bb</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421</field>
+        <field name="DK_PN">749-MCA1206MD1005BP500CT-ND</field>
+        <field name="MPN">MCA1206MD1005BP500</field>
+        <field name="Manufacturer">Vishay Dale</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421"/>
+      <property name="DK_PN" value="749-MCA1206MD1005BP500CT-ND"/>
+      <property name="MPN" value="MCA1206MD1005BP500"/>
+      <property name="Manufacturer" value="Vishay Dale"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>615ecc81-4710-4a38-8f5b-1fcbfc125fcb</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1467161b-00fd-4bbd-8120-326102d8a099</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421</field>
+        <field name="DK_PN">749-MCA1206MD1005BP500CT-ND</field>
+        <field name="MPN">MCA1206MD1005BP500</field>
+        <field name="Manufacturer">Vishay Dale</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421"/>
+      <property name="DK_PN" value="749-MCA1206MD1005BP500CT-ND"/>
+      <property name="MPN" value="MCA1206MD1005BP500"/>
+      <property name="Manufacturer" value="Vishay Dale"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc92e6c0-f1ac-469f-a69e-f73c0157bab1</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421</field>
+        <field name="DK_PN">749-MCA1206MD1005BP500CT-ND</field>
+        <field name="MPN">MCA1206MD1005BP500</field>
+        <field name="Manufacturer">Vishay Dale</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MCA1206MD1005BP500/12774421"/>
+      <property name="DK_PN" value="749-MCA1206MD1005BP500CT-ND"/>
+      <property name="MPN" value="MCA1206MD1005BP500"/>
+      <property name="Manufacturer" value="Vishay Dale"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f858e80c-ff21-41c9-974f-7f77bb90e3df</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51c52826-e616-4797-91e6-53e71a900cec</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9108d6bf-56dd-44d3-a716-5d9590b43499</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2e218de-e935-4350-ae82-ebf0c82b29c5</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>555f2664-6047-4bb5-a289-439748ab5085</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbed8460-1226-442d-9b90-b7346b9a5211</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59f85483-a1ea-4a00-a1ee-761c58b50be9</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76f57b59-8279-4601-a433-40353975795e</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f6063c3-5464-4409-bed0-f9f3b8110df6</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>5k9</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB5901V/3071103</field>
+        <field name="DK_PN">P5.9KBCCT-ND</field>
+        <field name="MPN">ERA-8AEB5901V</field>
+        <field name="Manufacturer">Panasonic Electronic Components</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB5901V/3071103"/>
+      <property name="DK_PN" value="P5.9KBCCT-ND"/>
+      <property name="MPN" value="ERA-8AEB5901V"/>
+      <property name="Manufacturer" value="Panasonic Electronic Components"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce46e5cd-bcf7-44a1-b414-68f243388a71</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330</field>
+        <field name="DK_PN">RNCS1206BKE10K0CT-ND</field>
+        <field name="MPN">RNCS1206BKE10K0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronichttps://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE10K0/1800330s-inc/RNCS1206BKE10K0/1800330"/>
+      <property name="DK_PN" value="RNCS1206BKE10K0CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE10K0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4f9e794-497c-4ebe-8352-9bd7544a131b</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f007a9da-7c6c-4498-98cd-3bbf429a0e41</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RTAN1206BKE22R0/6602201</field>
+        <field name="DK_PN">RTAN1206BKE22R0CT-ND</field>
+        <field name="MPN">RTAN1206BKE22R0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RTAN1206BKE22R0/6602201"/>
+      <property name="DK_PN" value="RTAN1206BKE22R0CT-ND"/>
+      <property name="MPN" value="RTAN1206BKE22R0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a2a8f99-524d-493a-9e42-29f638205953</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RTAN1206BKE22R0/6602201</field>
+        <field name="DK_PN">RTAN1206BKE22R0CT-ND</field>
+        <field name="MPN">RTAN1206BKE22R0</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RTAN1206BKE22R0/6602201"/>
+      <property name="DK_PN" value="RTAN1206BKE22R0CT-ND"/>
+      <property name="MPN" value="RTAN1206BKE22R0"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1c5d11b-b599-47bd-b3b4-cd7d6f4dc8f7</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333</field>
+        <field name="DK_PN">RNCS1206BKE1K00CT-ND</field>
+        <field name="MPN">RNCS1206BKE1K00</field>
+        <field name="Manufacturer">Stackpole Electronics Inc</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS1206BKE1K00/1800333"/>
+      <property name="DK_PN" value="RNCS1206BKE1K00CT-ND"/>
+      <property name="MPN" value="RNCS1206BKE1K00"/>
+      <property name="Manufacturer" value="Stackpole Electronics Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36eb839a-3653-4da8-83ac-c2798d058cf3</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>Amp1 Out</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c16fea0e-a641-4680-8e7a-22c8b023d449</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>Amp2 Out</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>165e7c5e-9e95-4736-a3c7-e252e3e558b5</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>Amp3 Out</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eae9806d-7617-45bf-a27a-fb7955127987</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>+IN</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab8b1dc5-761e-4489-9f57-811edb3e39f9</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>-IN</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92f129aa-8c5a-4e88-9530-0f184b8137f2</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>Test Pulse</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57d117ed-4bfe-48b1-be08-1ded5056a262</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>-5V</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3800e57b-156f-4034-8066-4f6723e22c3c</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>+3V3</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>508619fd-2aec-4dce-a24c-ebf3ce7555e0</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>+5V</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f666cef7-c513-4e70-9916-c09e991d7e70</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>HV prog</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4a560ab-d3c4-4a30-923d-e9b818976f80</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>HV</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55c9634d-6d5d-407a-bb94-0c4c3e41c778</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>Pulse Trig</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42729cad-f6b5-4e41-a7b2-d2b4a1df4339</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>Pulse out</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c27ce0e9-e8eb-47d5-ac22-59e28670a8f8</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SK0530</value>
+      <footprint>Panoptes:SK0530</footprint>
+      <datasheet>https://www.hvmtech.com/_files/ugd/714c33_500ff03a9e794c24b7ca21f80ced2701.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/hvm-technology-inc/SK0530/10707965</field>
+        <field name="DK_PN">2244-SK0530-ND</field>
+        <field name="MPN">SK0530</field>
+        <field name="Manufacturer">HVM Technology, Inc.</field>
+      </fields>
+      <libsource lib="Panoptes" part="SK0530" description=""/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/hvm-technology-inc/SK0530/10707965"/>
+      <property name="DK_PN" value="2244-SK0530-ND"/>
+      <property name="MPN" value="SK0530"/>
+      <property name="Manufacturer" value="HVM Technology, Inc."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6068d3ac-7d14-4c32-8b3a-e023b7cc7bcd</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SE555D</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ne555.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/texas-instruments/SE555DR/1574195</field>
+        <field name="DK_PN">296-39169-1-ND</field>
+        <field name="MPN">SE555DR</field>
+        <field name="Manufacturer">Texas Instruments</field>
+      </fields>
+      <libsource lib="Timer" part="SE555D" description="Precision Timers, 555 compatible, SOIC-8"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/texas-instruments/SE555DR/1574195"/>
+      <property name="DK_PN" value="296-39169-1-ND"/>
+      <property name="MPN" value="SE555DR"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Precision Timers, 555 compatible, SOIC-8"/>
+      <property name="ki_keywords" value="single timer 555"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a762f12c-3f31-4c81-8cee-454ae9ddd1e3</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ADS7882</value>
+      <footprint>Package_QFP:TQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ads7882.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/texas-instruments/ADS7882IPFBT/2047151</field>
+        <field name="DK_PN">296-27193-1-ND</field>
+        <field name="MPN">ADS7882IPFBT</field>
+        <field name="Manufacturer">Texas Instruments</field>
+      </fields>
+      <libsource lib="Panoptes" part="ADS7882" description=""/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/texas-instruments/ADS7882IPFBT/2047151"/>
+      <property name="DK_PN" value="296-27193-1-ND"/>
+      <property name="MPN" value="ADS7882IPFBT"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d102522-442e-4d13-a60b-b669d627dc0f</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ARS14Y03</value>
+      <footprint>Panoptes:ARS14Y03</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/RS_Relays(ARS).pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/panasonic-electric-works/ARS14Y03/2125712</field>
+        <field name="DK_PN">255-2705-ND</field>
+        <field name="MPN">ARS14Y03</field>
+        <field name="Manufacturer">Panasonic Electric Works</field>
+      </fields>
+      <libsource lib="Panoptes" part="ARS14Y03" description=""/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/panasonic-electric-works/ARS14Y03/2125712"/>
+      <property name="DK_PN" value="255-2705-ND"/>
+      <property name="MPN" value="ARS14Y03"/>
+      <property name="Manufacturer" value="Panasonic Electric Works"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>178ea4be-f13d-4f95-b063-bbddab1a421c</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>OPA2350UA</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa2350.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/texas-instruments/OPA2350UA/275846</field>
+        <field name="DK_PN">OPA2350UA-ND</field>
+        <field name="MPN">OPA2350UA</field>
+        <field name="Manufacturer">Texas Instruments</field>
+      </fields>
+      <libsource lib="Panoptes" part="OPA2350UA" description=""/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/texas-instruments/OPA2350UA/275846"/>
+      <property name="DK_PN" value="OPA2350UA-ND"/>
+      <property name="MPN" value="OPA2350UA"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b4f85d1-92bc-45c1-9323-d9652d1c91af</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>L79L05_SOT89</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>http://www.farnell.com/datasheets/1827870.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stmicroelectronics/L79L05ACUTR/585743</field>
+        <field name="DK_PN">497-1219-1-ND</field>
+        <field name="MPN">L79L05ACUTR</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="L79L05_SOT89" description="Negative 100mA -30V Linear Regulator, Fixed Output -5V, SOT-89"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stmicroelectronics/L79L05ACUTR/585743"/>
+      <property name="DK_PN" value="497-1219-1-ND"/>
+      <property name="MPN" value="L79L05ACUTR"/>
+      <property name="Manufacturer" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Negative 100mA -30V Linear Regulator, Fixed Output -5V, SOT-89"/>
+      <property name="ki_keywords" value="Voltage Regulator 100mA Negative"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4cda47b-8e28-4ef8-a0ed-b04f497f5896</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>OPA2350UA</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa2350.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/texas-instruments/OPA2350UA/275846</field>
+        <field name="DK_PN">OPA2350UA-ND</field>
+        <field name="MPN">OPA2350UA</field>
+        <field name="Manufacturer">Texas Instruments</field>
+      </fields>
+      <libsource lib="Panoptes" part="OPA2350UA" description=""/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/texas-instruments/OPA2350UA/275846"/>
+      <property name="DK_PN" value="OPA2350UA-ND"/>
+      <property name="MPN" value="OPA2350UA"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d19abe1-b14a-46e0-9fc2-51caa77a54bd</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>L78L33_SOT89</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stmicroelectronics/L78L33ACUTR/585724</field>
+        <field name="DK_PN">497-1200-1-ND</field>
+        <field name="MPN">L78L33ACUTR</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="L78L33_SOT89" description="Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stmicroelectronics/L78L33ACUTR/585724"/>
+      <property name="DK_PN" value="497-1200-1-ND"/>
+      <property name="MPN" value="L78L33ACUTR"/>
+      <property name="Manufacturer" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89"/>
+      <property name="ki_keywords" value="Voltage Regulator 100mA Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adcdbcc0-8971-4018-97ab-ebb8ec4844eb</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>L78L05_SOT89</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <fields>
+        <field name="DK_Detail_Page">https://www.digikey.com/en/products/detail/stmicroelectronics/L78L05ACUTR/585707</field>
+        <field name="DK_PN">497-1183-1-ND</field>
+        <field name="MPN">L78L05ACUTR</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="L78L05_SOT89" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89"/>
+      <property name="DK_Detail_Page" value="https://www.digikey.com/en/products/detail/stmicroelectronics/L78L05ACUTR/585707"/>
+      <property name="DK_PN" value="497-1183-1-ND"/>
+      <property name="MPN" value="L78L05ACUTR"/>
+      <property name="Manufacturer" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Panoptes.kicad_sch"/>
+      <property name="ki_description" value="Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89"/>
+      <property name="ki_keywords" value="Voltage Regulator 100mA Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c47d59b6-37ff-4fa4-8220-7ec01646d79c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x12_Odd_Even">
+      <description>Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x12_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Panoptes" part="ADS7882">
+      <docs>https://www.ti.com/lit/ds/symlink/ads7882.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADS7882</field>
+        <field name="Footprint">Package_QFP:TQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/ads7882.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="REFIN" type="power_in"/>
+        <pin num="2" name="REFOUT" type="power_out"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="+VA" type="power_in"/>
+        <pin num="5" name="AGND" type="power_in"/>
+        <pin num="6" name="+IN" type="input"/>
+        <pin num="7" name="-IN" type="input"/>
+        <pin num="8" name="AGND" type="power_in"/>
+        <pin num="9" name="+VA" type="power_in"/>
+        <pin num="10" name="+VA" type="power_in"/>
+        <pin num="11" name="AGND" type="power_in"/>
+        <pin num="12" name="AGND" type="power_in"/>
+        <pin num="13" name="+VA" type="power_in"/>
+        <pin num="14" name="AGND" type="power_in"/>
+        <pin num="15" name="AGND" type="power_in"/>
+        <pin num="16" name="DB11" type="output"/>
+        <pin num="17" name="DB10" type="output"/>
+        <pin num="18" name="DB9" type="output"/>
+        <pin num="19" name="DB8" type="output"/>
+        <pin num="20" name="DB7" type="output"/>
+        <pin num="21" name="DB6" type="output"/>
+        <pin num="22" name="DB5" type="output"/>
+        <pin num="23" name="DB4" type="output"/>
+        <pin num="24" name="+VDB" type="power_in"/>
+        <pin num="25" name="DBGND" type="power_in"/>
+        <pin num="26" name="DB3" type="output"/>
+        <pin num="27" name="DB2" type="output"/>
+        <pin num="28" name="DB1" type="output"/>
+        <pin num="29" name="DB0" type="output"/>
+        <pin num="30" name="NC" type="no_connect"/>
+        <pin num="31" name="NC" type="no_connect"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="NC" type="no_connect"/>
+        <pin num="34" name="+VDB" type="power_in"/>
+        <pin num="35" name="DBGND" type="power_in"/>
+        <pin num="36" name="BUSY" type="output"/>
+        <pin num="37" name="~A_PWD" type="input"/>
+        <pin num="38" name="~PWD_RST" type="input"/>
+        <pin num="39" name="BYTE" type="input"/>
+        <pin num="40" name="~CONVST" type="input"/>
+        <pin num="41" name="~RD" type="input"/>
+        <pin num="42" name="~CS" type="input"/>
+        <pin num="43" name="+VA" type="power_in"/>
+        <pin num="44" name="AGND" type="power_in"/>
+        <pin num="45" name="AGND" type="power_in"/>
+        <pin num="46" name="+VA" type="power_in"/>
+        <pin num="47" name="REFM" type="power_in"/>
+        <pin num="48" name="REFM" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Panoptes" part="ARS14Y03">
+      <docs>https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/RS_Relays(ARS).pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ARS14Y03</field>
+        <field name="Footprint">Panoptes:ARS14Y03</field>
+        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/RS_Relays(ARS).pdf</field>
+      </fields>
+      <pins>
+        <pin num="2" name="Coil-" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="COM" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="" type="no_connect"/>
+        <pin num="8" name="Coil+" type="input"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="NO" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="GND" type="power_in"/>
+        <pin num="17" name="NC" type="input"/>
+        <pin num="18" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Panoptes" part="OPA2350UA">
+      <docs>https://www.ti.com/lit/ds/symlink/opa2350.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA2350UA</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/opa2350.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A_out" type="output"/>
+        <pin num="2" name="A-" type="input"/>
+        <pin num="3" name="A+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="B+" type="input"/>
+        <pin num="6" name="B-" type="input"/>
+        <pin num="7" name="B_out" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Panoptes" part="SK0530">
+      <docs>https://www.hvmtech.com/_files/ugd/714c33_500ff03a9e794c24b7ca21f80ced2701.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SK0530</field>
+        <field name="Footprint">Panoptes:SK0530</field>
+        <field name="Datasheet">https://www.hvmtech.com/_files/ugd/714c33_500ff03a9e794c24b7ca21f80ced2701.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vcc" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vprogram" type="input"/>
+        <pin num="4" name="HV" type="power_out"/>
+        <pin num="5" name="Case_GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L78L05_SOT89">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 5V, SOT-89</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</docs>
+      <footprints>
+        <fp>SOT?89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L78L05_SOT89</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L78L33_SOT89">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</docs>
+      <footprints>
+        <fp>SOT?89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L78L33_SOT89</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L79L05_SOT89">
+      <description>Negative 100mA -30V Linear Regulator, Fixed Output -5V, SOT-89</description>
+      <docs>http://www.farnell.com/datasheets/1827870.pdf</docs>
+      <footprints>
+        <fp>SOT?89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L79L05_SOT89</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/1827870.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VI" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="SE555D">
+      <description>Precision Timers, 555 compatible, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ne555.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SE555D</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ne555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Panoptes">
+      <uri>/home/jared/school/senoir_design/dsp-neutron-spectrometer/PCB/Panoptes.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Timer">
+      <uri>/usr/share/kicad/symbols//Timer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="+VDB" pintype="power_in"/>
+      <node ref="U3" pin="34" pinfunction="+VDB" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U3" pin="43" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U3" pin="46" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="+VA" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="+9V">
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="IN" pintype="power_in"/>
+      <node ref="U9" pin="3" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="4" name="-5V">
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U7" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="5" name="-9V">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="6" name="/+IN">
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="+IN" pintype="input"/>
+    </net>
+    <net code="7" name="/-IN">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="8" name="/A-3">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="A-" pintype="input"/>
+    </net>
+    <net code="9" name="/A_out_1">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="A_out" pintype="output"/>
+    </net>
+    <net code="10" name="/A_out_3">
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="A_out" pintype="output"/>
+    </net>
+    <net code="11" name="/B+4">
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="B+" pintype="input"/>
+    </net>
+    <net code="12" name="/B-2">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="B-" pintype="input"/>
+    </net>
+    <net code="13" name="/B-4">
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="B-" pintype="input"/>
+    </net>
+    <net code="14" name="/BUSY">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U3" pin="36" pinfunction="BUSY" pintype="output"/>
+    </net>
+    <net code="15" name="/B_out_2">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="B_out" pintype="output"/>
+      <node ref="U7" pin="3" pinfunction="A+" pintype="input"/>
+    </net>
+    <net code="16" name="/B_out_4">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="B_out" pintype="output"/>
+    </net>
+    <net code="17" name="/COM">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="COM" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="A-" pintype="input"/>
+    </net>
+    <net code="18" name="/CV">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="19" name="/DB0">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="DB0" pintype="output"/>
+    </net>
+    <net code="20" name="/DB1">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="DB1" pintype="output"/>
+    </net>
+    <net code="21" name="/DB2">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="DB2" pintype="output"/>
+    </net>
+    <net code="22" name="/DB3">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="DB3" pintype="output"/>
+    </net>
+    <net code="23" name="/DB4">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="DB4" pintype="output"/>
+    </net>
+    <net code="24" name="/DB5">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="DB5" pintype="output"/>
+    </net>
+    <net code="25" name="/DB6">
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="DB6" pintype="output"/>
+    </net>
+    <net code="26" name="/DB7">
+      <node ref="J3" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="DB7" pintype="output"/>
+    </net>
+    <net code="27" name="/DB8">
+      <node ref="J3" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="DB8" pintype="output"/>
+    </net>
+    <net code="28" name="/DB9">
+      <node ref="J3" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="DB9" pintype="output"/>
+    </net>
+    <net code="29" name="/DB10">
+      <node ref="J3" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="DB10" pintype="output"/>
+    </net>
+    <net code="30" name="/DB11">
+      <node ref="J3" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="DB11" pintype="output"/>
+    </net>
+    <net code="32" name="/HV">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="HV" pintype="power_out"/>
+    </net>
+    <net code="33" name="/NC">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="NC" pintype="input"/>
+    </net>
+    <net code="34" name="/NO">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="NO" pintype="input"/>
+    </net>
+    <net code="35" name="/Q_out">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="36" name="/REF">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="REFIN" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="REFOUT" pintype="power_out"/>
+    </net>
+    <net code="37" name="/TR">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="/TR_pin">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="TR" pintype="input"/>
+    </net>
+    <net code="39" name="/Vbias">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="/Vprogram">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Vprogram" pintype="input"/>
+    </net>
+    <net code="41" name="/coil+">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="Coil+" pintype="input"/>
+    </net>
+    <net code="42" name="/dis_thr">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="THR" pintype="input"/>
+      <node ref="U2" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="43" name="/~A_PWD">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="~A_PWD" pintype="input"/>
+    </net>
+    <net code="44" name="/~CONVST">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="40" pinfunction="~CONVST" pintype="input"/>
+    </net>
+    <net code="45" name="/~CS">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="42" pinfunction="~CS" pintype="input"/>
+    </net>
+    <net code="46" name="/~PWD_RST">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="~PWD_RST" pintype="input"/>
+    </net>
+    <net code="47" name="/~R">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="R" pintype="input"/>
+    </net>
+    <net code="48" name="/~RD">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="41" pinfunction="~RD" pintype="input"/>
+    </net>
+    <net code="49" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J3" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J3" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J3" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="J3" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="Case_GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="25" pinfunction="DBGND" pintype="power_in"/>
+      <node ref="U3" pin="35" pinfunction="DBGND" pintype="power_in"/>
+      <node ref="U3" pin="39" pinfunction="BYTE" pintype="input"/>
+      <node ref="U3" pin="44" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="45" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="47" pinfunction="REFM" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="REFM" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U4" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="Coil-" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="A+" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="B+" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="50" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q1-B)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(R20-Pad1)">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="unconnected-(U3-NC-Pad3)">
+      <node ref="U3" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U3-NC-Pad30)">
+      <node ref="U3" pin="30" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U3-NC-Pad31)">
+      <node ref="U3" pin="31" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U3-NC-Pad32)">
+      <node ref="U3" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U3-NC-Pad33)">
+      <node ref="U3" pin="33" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

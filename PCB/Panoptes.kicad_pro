@@ -57,13 +57,13 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|19b4b5c1-9d2b-48f3-8355-91e01ec1173d",
-        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|c9ce7ccb-ab3e-4327-b227-35fd4c95ad6b",
-        "clearance|69000000|109475000|c9ce7ccb-ab3e-4327-b227-35fd4c95ad6b|762e2cd4-aee1-4018-90bb-f243c2e9d9a5",
-        "clearance|69650000|106850000|762e2cd4-aee1-4018-90bb-f243c2e9d9a5|19b4b5c1-9d2b-48f3-8355-91e01ec1173d",
-        "clearance|69650000|109150000|19b4b5c1-9d2b-48f3-8355-91e01ec1173d|762e2cd4-aee1-4018-90bb-f243c2e9d9a5",
-        "clearance|70963124|104145118|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|c9ce7ccb-ab3e-4327-b227-35fd4c95ad6b",
-        "clearance|71136608|104203074|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|19b4b5c1-9d2b-48f3-8355-91e01ec1173d",
+        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|05a03daa-a8cf-426f-a7ba-c047bf9a5033",
+        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|3401ee40-c948-4285-98bf-1865bd11940a",
+        "clearance|69000000|110050000|05a03daa-a8cf-426f-a7ba-c047bf9a5033|30088ad9-30ca-471e-8f5a-ab44cd1fba2b",
+        "clearance|70450001|109599999|3401ee40-c948-4285-98bf-1865bd11940a|62550132-659b-4c6a-a8a0-7d0a4dbbfc4b",
+        "clearance|71024033|104166810|05a03daa-a8cf-426f-a7ba-c047bf9a5033|7d63c87d-66bb-4ac6-81e5-d9685e474e6b",
+        "clearance|71024033|104166810|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|05a03daa-a8cf-426f-a7ba-c047bf9a5033",
+        "clearance|71447350|104278657|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|3401ee40-c948-4285-98bf-1865bd11940a",
         "copper_edge_clearance|66500000|155000000|66db6598-c0f9-4e74-a091-85a5a93b23ea|5f1b9904-1802-4898-9f4b-84627ecadfb3",
         "copper_edge_clearance|68500000|155000000|66db6598-c0f9-4e74-a091-85a5a93b23ea|0e6b30f6-871f-4b87-8905-fbdc68fe381f",
         "copper_sliver|126814579|124008033|00000000-0000-0000-0000-000000000000|B.Cu"
@@ -211,6 +211,10 @@
         },
         {
           "diameter": 1.0,
+          "drill": 0.5
+        },
+        {
+          "diameter": 2.5,
           "drill": 0.5
         }
       ],
@@ -481,7 +485,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.5,
+        "clearance": 10.0,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -542,6 +546,7 @@
       "-5V": "V-",
       "-9V": "V-",
       "/HV": "HV",
+      "/HV_+5V": "V+",
       "/Vbias": "HV",
       "GND": "GND",
       "Net-(C14-Pad2)": "HV",
