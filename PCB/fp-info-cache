@@ -1,4 +1,4 @@
-21605076426214921
+21608441387106912
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79002,12 +79002,26 @@ ARS14Y03
 14
 14
 Panoptes
+Bourns 3361P
+
+
+0
+3
+3
+Panoptes
 SK0530
 
 
 0
 5
 5
+Panoptes
+STX-3500-3NTR
+
+
+0
+3
+3
 Panoptes
 tube pigtail
 

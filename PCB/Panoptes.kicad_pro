@@ -57,16 +57,12 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|05a03daa-a8cf-426f-a7ba-c047bf9a5033",
-        "clearance|69000000|106525000|30088ad9-30ca-471e-8f5a-ab44cd1fba2b|3401ee40-c948-4285-98bf-1865bd11940a",
-        "clearance|69000000|110050000|05a03daa-a8cf-426f-a7ba-c047bf9a5033|30088ad9-30ca-471e-8f5a-ab44cd1fba2b",
-        "clearance|70450001|109599999|3401ee40-c948-4285-98bf-1865bd11940a|62550132-659b-4c6a-a8a0-7d0a4dbbfc4b",
-        "clearance|71024033|104166810|05a03daa-a8cf-426f-a7ba-c047bf9a5033|7d63c87d-66bb-4ac6-81e5-d9685e474e6b",
-        "clearance|71024033|104166810|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|05a03daa-a8cf-426f-a7ba-c047bf9a5033",
-        "clearance|71447350|104278657|7d63c87d-66bb-4ac6-81e5-d9685e474e6b|3401ee40-c948-4285-98bf-1865bd11940a",
-        "copper_edge_clearance|66500000|155000000|66db6598-c0f9-4e74-a091-85a5a93b23ea|5f1b9904-1802-4898-9f4b-84627ecadfb3",
-        "copper_edge_clearance|68500000|155000000|66db6598-c0f9-4e74-a091-85a5a93b23ea|0e6b30f6-871f-4b87-8905-fbdc68fe381f",
-        "copper_sliver|126814579|124008033|00000000-0000-0000-0000-000000000000|B.Cu"
+        "clearance|198250000|132000000|acf815da-daf9-4c75-8875-2089d1b09441|01d3b21f-4b56-4a8c-8c0c-f175442ec4b2",
+        "clearance|198250000|135750000|01d3b21f-4b56-4a8c-8c0c-f175442ec4b2|c1515ad5-89d6-484d-a963-39d8bf8f0ba6",
+        "clearance|198250000|139500000|11fcdc13-946c-4348-88b5-c143c9a7a11b|c1515ad5-89d6-484d-a963-39d8bf8f0ba6",
+        "lib_footprint_mismatch|190646250|32140000|0ead4d6e-b2b2-4ec7-89cc-22703923fd7c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|215521250|32140000|ad876224-e4e0-4bcb-bea9-8d873bc1ea34|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|236666250|30850000|d3f690c1-c16c-4f63-974a-476d4bee1012|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -485,7 +481,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 10.0,
+        "clearance": 1.0,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -549,8 +545,7 @@
       "/HV_+5V": "V+",
       "/Vbias": "HV",
       "GND": "GND",
-      "Net-(C14-Pad2)": "HV",
-      "Net-(C16-Pad2)": "HV"
+      "Net-(C37-Pad2)": "HV"
     },
     "netclass_patterns": []
   },
