@@ -274,3 +274,7 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+#User added
+PCB/Panoptes-backups
+PCB/gerbers
