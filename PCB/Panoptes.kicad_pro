@@ -64,8 +64,10 @@
         "clearance|76500000|141500000|1dc389d6-d902-4bc1-b461-c8e1c5888a3d|5f1b9904-1802-4898-9f4b-84627ecadfb3",
         "clearance|77275000|137375000|0e4db75f-eb0f-45af-944b-cd64d67f6041|7dff49e6-9e23-4eb8-89f3-a87c811a542f",
         "clearance|85500000|130380000|091d03f1-f9ec-492f-b661-9f92ed9a9f3c|1dc389d6-d902-4bc1-b461-c8e1c5888a3d",
+        "clearance|85500000|130380000|091d03f1-f9ec-492f-b661-9f92ed9a9f3c|b38fc5bd-f41a-4b8f-80d2-36a738b29d79",
         "clearance|85500000|134190000|1dc389d6-d902-4bc1-b461-c8e1c5888a3d|0e4db75f-eb0f-45af-944b-cd64d67f6041",
         "clearance|85500000|138000000|b38fc5bd-f41a-4b8f-80d2-36a738b29d79|091d03f1-f9ec-492f-b661-9f92ed9a9f3c",
+        "clearance|85500000|138000000|b38fc5bd-f41a-4b8f-80d2-36a738b29d79|0e4db75f-eb0f-45af-944b-cd64d67f6041",
         "clearance|89250000|134190000|0e4db75f-eb0f-45af-944b-cd64d67f6041|0bce5c89-5679-4e54-b2ef-a7ac70b36c68",
         "copper_sliver|76831617|93537249|00000000-0000-0000-0000-000000000000|B.Cu",
         "lib_footprint_mismatch|108250000|62249999|a7a5e249-9cc9-4f7b-879f-4de7588edce4|00000000-0000-0000-0000-000000000000",
@@ -572,7 +574,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Panoptes.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

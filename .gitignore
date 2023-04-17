@@ -276,5 +276,6 @@ TSWLatexianTemp*
 *.lpz
 
 #User added
-PCB/Panoptes-backups
-PCB/gerbers
+PCB/Panoptes-backups/
+
+PCB/gerbers/
