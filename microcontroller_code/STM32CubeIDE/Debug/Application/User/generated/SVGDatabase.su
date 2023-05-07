@@ -1,0 +1,2 @@
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/images/src/SVGDatabase.cpp:10:27:const touchgfx::VGObject* SVGDatabase::getInstance()	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/images/src/SVGDatabase.cpp:15:10:uint16_t SVGDatabase::getInstanceSize()	0	static

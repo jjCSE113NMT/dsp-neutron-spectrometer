@@ -1,0 +1,6 @@
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:44:43:const touchgfx::TypedText::TypedTextData* TypedTextDatabase::getInstance(touchgfx::LanguageId)	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:49:10:uint16_t TypedTextDatabase::getInstanceSize()	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:54:24:const touchgfx::Font** TypedTextDatabase::getFonts()	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:59:23:const touchgfx::Font* TypedTextDatabase::setFont(touchgfx::FontId, const touchgfx::Font*)	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:66:6:void TypedTextDatabase::resetFont(touchgfx::FontId)	8	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/texts/src/TypedTextDatabase.cpp:81:1:cpp)	8	static

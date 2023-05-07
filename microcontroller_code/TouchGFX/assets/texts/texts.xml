@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.21.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_HDOS" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Frequency (1000-1Hz)&#10;25us width</Translation>
+      </Text>
+      <Text Id="__SingleUse_3GLX" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Stop</Translation>
+      </Text>
+      <Text Id="__SingleUse_0JPU" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_VHRG" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Back</Translation>
+      </Text>
+      <Text Id="__SingleUse_P7HY" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Test Pulse Setup</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZEHJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Back</Translation>
+      </Text>
+      <Text Id="__SingleUse_ARHE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Counts</Translation>
+      </Text>
+      <Text Id="__SingleUse_BBKA" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Clear</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZVUC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Energy (KeV)</Translation>
+      </Text>
+      <Text Id="__SingleUse_B0JD" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_53PD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A72K" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Pulse Spectrum</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="-., 0123456789" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

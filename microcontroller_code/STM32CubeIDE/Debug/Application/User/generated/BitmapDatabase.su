@@ -1,0 +1,2 @@
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/images/src/BitmapDatabase.cpp:31:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/generated/images/src/BitmapDatabase.cpp:36:10:uint16_t BitmapDatabase::getInstanceSize()	0	static

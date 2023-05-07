@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/gui/src/menu_screen/MenuView.cpp:13:6:virtual void MenuView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/menu_screen/MenuView.hpp:11:13:MenuView::~MenuView()	8	static
+../../TouchGFX/gui/include/gui/menu_screen/MenuView.hpp:11:13:virtual MenuView::~MenuView()	8	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/gui/src/menu_screen/MenuView.cpp:3:1:MenuView::MenuView()	8	static
+D:/NMT/Spring2023/EE481_capstone/STM_disco/LANL_Neutron_DSP/TouchGFX/gui/src/menu_screen/MenuView.cpp:8:6:virtual void MenuView::setupScreen()	0	static
